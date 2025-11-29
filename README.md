@@ -1,5 +1,8 @@
 ### Hrms Custom
 
+![Version](https://img.shields.io/badge/version-29.11.2025-blue)
+
+
 Hrms Custom
 
 ### Installation
